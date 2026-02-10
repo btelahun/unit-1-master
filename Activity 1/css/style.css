@@ -1,0 +1,21 @@
+/* Stylesheet by Bethelhem Telahun, 2026 */
+
+#mydiv {
+            background-color: rgb(240, 201, 103);
+            width: 100%;
+            margin: 5 auto;
+            height: 20 px;
+			font-family: Verdana;
+			color: rgb(247, 170, 3);
+        }
+        
+#mapbox {
+            background-color: greenyellow;
+            width: 100%;
+            margin: 100 auto;
+            height: 100 px;
+			font-family: Segoe UI;
+			color: green;
+        }
+
+
